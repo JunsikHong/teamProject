@@ -9,4 +9,6 @@ git push ??? master
 
 git branch ~?
 
+git checkout ~?
+
 git merge ~?
